@@ -2,6 +2,8 @@
 
 ¡Bienvenido a mi proyecto de Dashboard de Pokémon en Power BI! Este proyecto utiliza datos extraídos de la PokeAPI para crear un dashboard interactivo que permite visualizar información sobre diferentes Pokémon.
 
+![Captura de Pantalla del Dashboard](images/dashboard.png)
+
 ## Contenidos
 
 - [Descripción del Proyecto](#descripción-del-proyecto)
