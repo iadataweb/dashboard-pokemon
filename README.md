@@ -16,7 +16,7 @@
 
 ## Descripción del Proyecto
 
-Este proyecto fue creado para explorar mis habilidades en Power BI, DAX, HTML, y CSS. Utiliza la PokeAPI para obtener datos de Pokémon y presenta un dashboard interactivo que muestra estadísticas, evoluciones y otros detalles de cada Pokémon.
+Este proyecto fue creado para explorar mis habilidades en Power BI, DAX, HTML y CSS. Utiliza datos de Pokémon extraídos mediante la PokeAPI con Python y presenta un dashboard interactivo que muestra estadísticas, evoluciones y otros detalles de cada Pokémon.
 
 ## Instalación
 
