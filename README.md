@@ -9,6 +9,7 @@
 - [Descripción del Proyecto](#descripción-del-proyecto)
 - [Instalación](#instalación)
 - [Uso](#uso)
+- [Fuentes de Datos](#-fuentes-de-datos)
 - [Scripts de Extracción de Datos](#scripts-de-extracción-de-datos)
 - [Contribuciones](#contribuciones)
 - [Contacto](#contacto)
@@ -33,6 +34,10 @@ Una vez que el dashboard esté abierto en Power BI, podrás:
 - Ver el peso (kg) y la altura (m) de cada Pokémon.
 - Explorar las cadenas de evolución de los Pokémon.
 - Filtrar Pokémon por generación, categoría y tipo.
+
+## Fuentes de Datos
+
+Este proyecto utiliza datos extraídos de la [PokeAPI](https://pokeapi.co/), una API gratuita que proporciona información detallada sobre los Pokémon.
 
 ## Scripts de Extracción de Datos
 
