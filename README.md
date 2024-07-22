@@ -20,6 +20,8 @@ Este proyecto fue creado para explorar mis habilidades en Power BI, DAX, HTML, y
 Para ejecutar este proyecto localmente, sigue los siguientes pasos:
 
 1. Clona este repositorio:
+   
+   ```bash
    git clone https://github.com/tu-usuario/pokemon-dashboard.git
    
 ## Uso
