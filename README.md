@@ -8,7 +8,6 @@
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
 - [Contacto](#contacto)
 
 ## Descripción del Proyecto
@@ -27,7 +26,8 @@ Para ejecutar este proyecto localmente, sigue los siguientes pasos:
 ## Uso
 
 Una vez que el dashboard esté abierto en Power BI, podrás:
-- Ver estadísticas base de cada Pokémon, como HP, ataque, defensa, etc.
+- Ver estadísticas base de cada Pokémon, como HP, ataque, defensa, ataque especial, defensa especial, velocidad y el total.
+- Ver el peso kg la altura de cada Pokémon.
 - Explorar las cadenas de evolución de los Pokémon.
 - Filtrar Pokémon por generación, categoría y tipo.
 
