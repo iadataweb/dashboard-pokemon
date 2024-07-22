@@ -23,7 +23,7 @@ Para ejecutar este proyecto localmente, sigue los siguientes pasos:
 1. Clona este repositorio:
    
    ```bash
-   git clone https://github.com/tu-usuario/pokemon-dashboard.git
+   git clone https://github.com/injantedataweb/pokemon-dashboard.git
    
 ## Uso
 
