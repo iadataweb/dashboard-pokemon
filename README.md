@@ -41,9 +41,9 @@ Este proyecto utiliza datos extraídos de la [PokeAPI](https://pokeapi.co/), una
 
 ## Scripts de Extracción de Datos
 
-- extract_base.py: Este script se encarga de extraer la información básica de cada Pokémon y genera un archivo CSV (pokemon_base.csv). El archivo contiene el identificador, el nombre, el tipo primario, el tipo secundario, enlace de la imagen, las estadísticas base, el peso, la altura y combinación de tipos de cada Pokémon.
-- extract_evolution.py: Este script obtiene la información evolutiva de cada Pokémon y genera un archivo CSV (pokemon_evolution.csv). Incluye el nombre del Pokémon, su grupo de evolución y la fase de evolución. Este archivo se utiliza para mostrar las cadenas evolutivas en el dashboard de Power BI.
-- extract_types.py: Este script extrae información sobre los tipos de Pokémon y genera un archivo CSV (pokemon_types.csv). El archivo contiene datos sobre cada Pokémon, separando su tipo primario y secundario en filas independientes, con su combinación de tipos. Esto permite filtrar y visualizar Pokémon que poseen un tipo particular, ya sea como tipo primario o secundario, en el dashboard de Power BI.
+- **extract_base.py**: Este script se encarga de extraer la información básica de cada Pokémon y genera un archivo CSV (pokemon_base.csv). El archivo contiene el identificador, el nombre, el tipo primario, el tipo secundario, enlace de la imagen, las estadísticas base, el peso, la altura y combinación de tipos de cada Pokémon.
+- **extract_evolution.py**: Este script obtiene la información evolutiva de cada Pokémon y genera un archivo CSV (pokemon_evolution.csv). Incluye el nombre del Pokémon, su grupo de evolución y la fase de evolución. Este archivo se utiliza para mostrar las cadenas evolutivas en el dashboard de Power BI.
+- **extract_types.py**: Este script extrae información sobre los tipos de Pokémon y genera un archivo CSV (pokemon_types.csv). El archivo contiene datos sobre cada Pokémon, separando su tipo primario y secundario en filas independientes, con su combinación de tipos. Esto permite filtrar y visualizar Pokémon que poseen un tipo particular, ya sea como tipo primario o secundario, en el dashboard de Power BI.
 
 ## Contribuciones
 
