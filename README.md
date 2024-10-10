@@ -1,4 +1,4 @@
-# Pokémon Dashboard en Power BI
+# Dashboard de Pokémon en Power BI
 
 ¡Bienvenido a mi proyecto de Dashboard de Pokémon en Power BI! Este proyecto utiliza datos extraídos de la PokeAPI para crear un dashboard interactivo que permite visualizar información sobre diferentes Pokémon.
 
@@ -29,7 +29,7 @@ Para ejecutar este proyecto localmente, sigue los siguientes pasos:
    
 ## Uso
 
-Puedes interactuar con el dashboard en línea usando el siguiente enlace: [Pokémon Dashboard en Power BI.](https://app.powerbi.com/view?r=eyJrIjoiZTgxYTZjZmEtZjE1OS00NjEwLTk2MjgtOTIxY2JhMDZjNWE2IiwidCI6ImE0ZjQ1Njc3LWMyNDMtNGIyNy1hMmNiLTZmZmY3M2JhN2M3OSIsImMiOjR9)
+Puedes interactuar con el dashboard en línea usando el siguiente enlace: [Dashboard de Pokémon en Power BI.](https://app.powerbi.com/view?r=eyJrIjoiZTgxYTZjZmEtZjE1OS00NjEwLTk2MjgtOTIxY2JhMDZjNWE2IiwidCI6ImE0ZjQ1Njc3LWMyNDMtNGIyNy1hMmNiLTZmZmY3M2JhN2M3OSIsImMiOjR9)
 
 Una vez que el dashboard esté abierto en Power BI, podrás:
 - Ver estadísticas base de cada Pokémon, como HP, ataque, defensa, ataque especial, defensa especial, velocidad y el total.
